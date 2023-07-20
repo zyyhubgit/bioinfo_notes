@@ -8,4 +8,11 @@
   2. *How we interpret the data to solve biological problems*;  
 
   The first one is more of a *"computer science"* issue,  
-  while the later one having a tighter connection with biology researcher.
+  while the later one having a tighter connection with biology.
+
+* The 3 steps of bioinformatics analysis
+  1. Obtain information
+  2. Setup a **Model**
+  3. Apply an **Algorithm**
+
+
