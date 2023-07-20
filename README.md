@@ -1,2 +1,3 @@
-# bioinfo_notes
-A public repo for publishing notes as websites
+# Notes
+
+### 2023.7.10 暑期课堂笔记
