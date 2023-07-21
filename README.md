@@ -17,5 +17,5 @@
   3. Apply an **Algorithm**
 
 * **How to distinguish *"Model"* & *"Algorithm"* ?**  
-  * **Model** presents the structure and result generated from applying a certain algorithm  
-  * **Algorithm** involves how the specific processing of raw data is done
+  * **Model** presents the structure and logical result generated from applying a certain algorithm  
+  * **Algorithm** involves how the specific processing of raw data is done, how we achieve a certain result
